@@ -1,0 +1,225 @@
+
+body{
+    text-align: center;
+    font-family:  'Roboto', sans-serif;
+    
+}
+
+#barra-superior .nav{
+    margin-left: 10%;
+}
+
+#barra-superior .nav-link{
+    color: grey;
+    font-size: smaller;
+
+}
+
+#navibar{
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#navibar .navbar-brand{
+    color: #59ab6e  !important;
+    font-weight: 400;
+    font-size: 50px;
+    margin-left: 10%;
+}
+
+
+#navibar .link_cabecalho{
+    display: inline;
+}
+
+#navibar .nav-link{
+    padding: 0 4.125rem;
+    color: grey;
+}
+
+
+#carrosel{
+    height: 100%;
+}
+
+#cabecalho-principal {
+    color: grey;
+
+}
+
+#cabecalho-principal h1{
+    margin-top: 10%;
+    font-weight: 100;
+}
+
+#cabecalho-principal p{
+    width: 50%;
+    margin: 0 auto 10% auto;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+
+#cards-principal .row{
+    margin: 0 20px 0 20px;
+}
+
+#cards-principal .ajuste_card{
+    padding: 50px;
+}
+
+#cards-principal img{
+    border-radius: 100%;
+    width: 250px;
+    margin: 0 auto;
+
+}
+
+#cards-principal .btn{
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+
+#cabecalho-secundario{
+    color: grey;
+    background-color: #e9eef5;
+}
+
+#cabecalho-secundario h1{
+    margin-top: 20px;
+    padding-top: 5%;
+    font-weight: 100;
+}
+
+#cabecalho-secundario p{
+    width: 50%;
+    margin: 0 auto 10% auto;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#cards-secundario .row{
+    margin: 0 50px 0 50px;
+}
+
+#cards-secundario .card{
+    height: 100%;
+}
+
+#cards-secundario .pai{
+    display: flex;
+}
+
+#cards-secundario .cards-secundario-helper{
+    width: max-content;
+}
+
+#cards-secundario .cards-secundario-helper-preco{
+    justify-content: flex-end;
+    width: max-content;
+}
+
+#cards-secundario h2{
+    font-size: 30px;
+    color: black;
+    font-weight: 100;
+    text-align: left;
+}
+
+#cards-secundario .card-text{
+    font-size: 15px;
+    color: black;
+    font-weight: 100;
+    width: 80%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+#cards-secundario .card-reviews{
+    font-size: 15px;
+    color: grey;
+    font-weight: 100;
+    width: 80%;
+    text-align: left;
+    padding: 0;
+    margin: 10px 0 0 0 ;
+}
+
+
+#links .row{
+    margin: 0 30px;
+    padding-bottom: 30px;
+    border: solid 1px #dcdde1;
+    border-style: none none solid none;
+}
+
+#links h2{
+    text-decoration: none;
+    color: white;
+    text-align: left;
+    padding: 0 0 25px 0;
+    border: solid 1px #dcdde1;
+    border-style: none none solid none;
+    font-weight: 100;
+}
+
+
+#links a{
+    text-decoration: none;
+    color: #dcdde1;
+    text-align: left;
+    padding: 5px 0;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#links a:hover{
+    color: #198754;
+}
+
+
+#links .links_helper{
+    margin: 0;
+    padding: 10px 40px 10px 40px;
+    
+}
+
+#social{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+}
+
+#social .nav-item{
+    font-size: 30px;
+}
+
+#social i{
+    color: #cfd6e1;
+}
+
+#social i:hover{
+    color: white;
+}
+
+#social input{
+    border-radius: 0;
+    border: solid 1px #dcdde1;
+}
+
+#social .btn{
+    border: 0px;
+    border-radius: 0;
+    margin-bottom: 8px;
+}
+
+#copyrights{
+    background: #1d242d;
+    font-size: 20px;
+    font-weight: 100;
+    color: #dcdde1;
+    padding: 20px 50px;
+    text-align: left;
+}
